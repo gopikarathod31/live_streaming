@@ -15,3 +15,8 @@ Xcode 12.0 or later
 # Preview
 https://github.com/user-attachments/assets/b0506406-1bce-4a5f-b39b-5c1b748d5bb0
 
+# Added MUX Token Support
+- Added support for MUX live streaming by integrating MUX_TOKEN_ID and MUX_TOKEN_SECRET.
+- Updated project configuration to securely store and use MUX credentials for live streaming functionality.
+
+<img width="988" height="459" alt="image (2)" src="https://github.com/user-attachments/assets/fb11a1db-5f10-4b06-b2c8-03ad2d03e277" />
